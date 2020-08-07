@@ -9,5 +9,7 @@ After running the program, you'll be prompted to select an image. After selectin
 
 The intent of this program is to get more familiar with the Processing PDE and eventually create a more robust image processor for use with drawing plotters.
 
-!(BEFORE)[https://user-images.githubusercontent.com/46334898/89661167-532c4a80-d8a0-11ea-8c59-8136820995b6.png]
-!(AFTER)[https://user-images.githubusercontent.com/46334898/89661319-85d64300-d8a0-11ea-8e95-003f18cf15d5.png]
+
+BEFORE:
+![BEFORE](https://user-images.githubusercontent.com/46334898/89661167-532c4a80-d8a0-11ea-8c59-8136820995b6.png)
+![AFTER](https://user-images.githubusercontent.com/46334898/89661319-85d64300-d8a0-11ea-8e95-003f18cf15d5.png)
