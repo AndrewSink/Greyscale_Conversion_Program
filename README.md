@@ -12,9 +12,9 @@ The intent of this program is to get more familiar with the Processing PDE and e
 
 BEFORE:
 
-![BEFORE](https://user-images.githubusercontent.com/46334898/89661167-532c4a80-d8a0-11ea-8c59-8136820995b6.png)
+![BEFORE](https://user-images.githubusercontent.com/46334898/89662274-d601d500-d8a1-11ea-83a4-965e06edc5f6.jpg)
 
 
 AFTER:
 
-![AFTER](https://user-images.githubusercontent.com/46334898/89661319-85d64300-d8a0-11ea-8e95-003f18cf15d5.png)
+![AFTER](https://user-images.githubusercontent.com/46334898/89662302-e023d380-d8a1-11ea-9dfc-9c04ec4ef755.png)
